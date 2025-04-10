@@ -18,6 +18,10 @@ p {
     line-height: 28px;
 }
 
+span {
+    font-weight: bold;
+}
+
 .header {
     background-color: #afddfb;
 }
