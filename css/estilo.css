@@ -39,3 +39,8 @@ p {
     text-decoration: none;
     margin: 0px 10px;
 }
+
+.banner {
+    margin-top: 50px;
+    padding: 0px;
+}
