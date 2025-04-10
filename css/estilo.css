@@ -4,3 +4,38 @@ body {
     box-sizing: border-box;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+
+.secao {
+    padding: 30px 0px;
+    text-align: center;
+}
+
+p {
+    width: 980px;
+    text-align: justify;
+    margin: 10px auto;
+    font-size: 18px;
+    line-height: 28px;
+}
+
+.header {
+    background-color: #afddfb;
+}
+
+.header img {
+    width: 150px;
+}
+
+.header p {
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 25px;
+}
+
+.header p a {
+    font-size: 18px;
+    color: #1d1d1d;
+    border-bottom: 2px solid #1d1d1d;
+    text-decoration: none;
+    margin: 0px 10px;
+}
