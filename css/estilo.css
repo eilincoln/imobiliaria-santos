@@ -110,3 +110,38 @@ h2 {
 .corretores img {
     width: 450px;
 }
+
+.contato {
+    background-color: #1d80c1;
+}
+
+iframe {
+    width: 700px;
+    height: 300px;
+}
+
+.contato p {
+    color: #ffffff;
+    background-color: #1d1d1d;
+    padding: 15px;
+    margin: 30px auto;
+}
+
+.contato ul {
+    margin: 40px auto;
+    list-style: none;
+    width: 210px;
+}
+
+.contato li {
+    margin-top: 15px;
+    text-align: center;
+    font-size: 18px;
+}
+
+.contato a {
+    background-color: #ffffff;
+    color: #1d80c1;
+    padding: 2px 5px;
+    border-radius: 5px;
+}
