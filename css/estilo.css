@@ -67,3 +67,37 @@ h2 {
 .texto-azul {
     color: #1d80c1;
 }
+
+.servicos {
+    background-color: #1d80c1;
+}
+
+.subtitulo-especial {
+    color: #ffffff;
+    font-size: 28px;
+    line-height: 42px;
+}
+
+.texto-amarelo {
+    color: #fff92b;
+}
+
+.servicos p {
+    color: #ffffff;
+    line-height: 42px;
+    font-size: 22px;
+    text-align: center;
+    width: 700px;
+}
+
+.servicos ul {
+    margin: 40px auto;
+    width: 135px;
+}
+
+.servicos li {
+    color: #ffffff;
+    line-height: 42px;
+    text-align: left;
+    font-size: 22px;
+}
